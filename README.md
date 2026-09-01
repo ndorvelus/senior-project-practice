@@ -1,4 +1,4 @@
-# senior-project-practice
+# Student Developer Profile
 
 Includes information about me
 
